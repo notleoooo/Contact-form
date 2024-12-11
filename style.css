@@ -1,0 +1,15 @@
+#shaw{
+    display: flex;
+    align-items: center;
+}
+#ensar{
+display: flex;
+align-items: center;
+}
+#onar{
+    display: flex;
+    align-items: center;
+}
+body{
+    background-color:darkblue;
+}
